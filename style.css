@@ -1,0 +1,22 @@
+body{
+    background-color: pink;
+}
+h1 {
+    color: red; 
+     
+    text-align: center;
+}
+*title{
+    color: blue;
+}
+p {
+    font-weight: bold;
+    background-color: #333;
+    color: #fff;
+    padding: .5em;
+}
+img{
+    width: 100vw;
+    height: 50vw;
+}
+
